@@ -14,8 +14,6 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -33,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://barla-x88.github.io/FM-faq-accordion/)
+- Live Site URL: [Live site URL](https://github.com/barla-x88/FM-faq-accordion)
 
 ## My process
 
@@ -42,6 +40,7 @@ Users should be able to:
 
 - HTML5
 - CSS custom properties
+- CSS media queries
 - Vanilla JavaScript
 
 ### Things I learned
@@ -57,6 +56,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Ankit Barla](https://barla-x88.github.io/portfolio/)
+- Frontend Mentor - [@barla-x88](https://www.frontendmentor.io/profile/barla-x88)
+- Twitter - [@BarlaX88](https://twitter.com/BarlaX88)
