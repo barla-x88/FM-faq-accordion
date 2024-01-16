@@ -75,20 +75,19 @@ main {
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-
-.question:hover {
-  color: var(--color-focus);
+  cursor: pointer;
 }
 
 .question .text {
   max-width: 230px;
   font-weight: 600;
+  font-size: 1.8rem;
 }
 
 .question .icon img {
   width: 26px;
   height: 26px;
+  vertical-align: middle;
 }
 
 .answer {
@@ -130,6 +129,12 @@ main {
 
   .question .text {
     max-width: none;
-    font-size: 1.8rem;
+  }
+
+  .content main section:focus {
+    outline: 2px solid var(--color-lightPink);
+  }
+  .question:hover {
+    color: var(--color-focus);
   }
 }
