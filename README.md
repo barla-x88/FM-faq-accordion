@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github repo](https://barla-x88.github.io/FM-faq-accordion/)
-- Live Site URL: [Live site URL](https://github.com/barla-x88/FM-faq-accordion)
+- Solution URL: [Github repo](https://github.com/barla-x88/FM-faq-accordion)
+- Live Site URL: [Live site URL](https://barla-x88.github.io/FM-faq-accordion/)
 
 ## My process
 
